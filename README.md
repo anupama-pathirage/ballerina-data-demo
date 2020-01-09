@@ -14,7 +14,7 @@
         * [Install MySQL DB](https://dev.mysql.com/downloads/mysql/) on your local machine or use an existing DB server.
         * Create a database named `demodb` using a DB Client.
         
-        * Copy the [MySQL JDBC driver] (https://repo1.maven.org/maven2/mysql/mysql-connector-java/5.1.48/mysql-connector-java-5.1.48.jar) to the `<ballerina-home>/bre/lib` directory on your local machine. 
+        * Copy the [MySQL JDBC driver](https://repo1.maven.org/maven2/mysql/mysql-connector-java/5.1.48/mysql-connector-java-5.1.48.jar) to the `<ballerina-home>/bre/lib` directory on your local machine. 
           
           Note: You can find the `<ballerina-home>` location using the  following command:
             ```cmd
