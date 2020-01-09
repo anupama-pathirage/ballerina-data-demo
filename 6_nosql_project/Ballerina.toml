@@ -1,0 +1,6 @@
+[project]
+org-name= "b7a_data_demo"
+version= "0.1.0"
+
+[dependencies]
+"wso2/mongodb" = {path = "./lib/mongodb-2019r3-java8-0.9.1.balo", version = "0.9.1"}
